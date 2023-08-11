@@ -1,0 +1,52 @@
+body{
+    background-color: #FAFBFC;
+}
+
+h3{
+    font-family: 'sorce sans pro', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31.43px;
+    color: #7D7D7D;
+}
+
+.property-navbar ol{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 25px;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 15px;
+    background-color: #FFFFFF;
+}
+
+.property-navbar ol li{
+    color: #7D7D7D;
+    margin: auto 0;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.property-navbar ol li:hover{
+    background-color:aliceblue;
+    border-radius: 15px;
+}
+
+.form-container{
+    width: 60%;
+    margin: auto;
+    font-family: sans-serif;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+}
+
+.form-container .field-container div{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 50%
+}
+
+
